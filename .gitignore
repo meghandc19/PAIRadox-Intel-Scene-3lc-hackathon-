@@ -1,0 +1,16 @@
+3lc-env/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+api_key.txt
+data/
+best_model*.pth
+submission-assets/Intel-Scene-3LC.zip
+
+# Generated prediction history
+submissions/
+
+# Local credentials and machine-specific files
+*.key
